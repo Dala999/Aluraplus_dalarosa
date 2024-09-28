@@ -56,4 +56,18 @@ body {
 .container__titulo {
     font-size: 28px;
     font-weight: 700;
+
 }
+
+.secundario {
+    align-items:center;
+    margin: 0 10em;
+    text-align: left;
+
+}
+
+.secundario_imagem {
+    width: 80%;
+
+}
+
